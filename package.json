@@ -1,0 +1,29 @@
+{
+  "name": "hapi-treeize",
+  "version": "0.0.0",
+  "description": "A hapi.js plugin that decorates reply with treeize.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franvarney/hapi-treeize.git"
+  },
+  "keywords": [
+    "hapi",
+    "hapijs",
+    "hapi plugin",
+    "treeize",
+    "sql",
+    "flat data",
+    "associative data",
+    "json"
+  ],
+  "author": "Fran Varney <fran.varn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franvarney/hapi-treeize/issues"
+  },
+  "homepage": "https://github.com/franvarney/hapi-treeize#readme"
+}
