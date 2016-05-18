@@ -31,5 +31,8 @@
   },
   "dependencies": {
     "treeize": "2.0.2"
+  },
+  "devDependencies": {
+    "standard": "7.1.0"
   }
 }
