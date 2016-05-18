@@ -36,6 +36,7 @@
   },
   "devDependencies": {
     "code": "2.3.0",
+    "hapi": "13.4.0",
     "lab": "10.5.1",
     "sinon": "1.17.4",
     "standard": "7.1.0"
