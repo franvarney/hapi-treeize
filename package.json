@@ -35,6 +35,7 @@
     "treeize": "2.0.2"
   },
   "devDependencies": {
+    "lab": "10.5.1",
     "standard": "7.1.0"
   }
 }
