@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/franvarney/hapi-treeize/issues"
   },
-  "homepage": "https://github.com/franvarney/hapi-treeize#readme"
+  "homepage": "https://github.com/franvarney/hapi-treeize#readme",
+  "dependencies": {
+    "treeize": "2.0.2"
+  }
 }
