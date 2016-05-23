@@ -5,6 +5,7 @@ const Hapi = require('hapi')
 const Data = require('./data')
 const Data2 = require('./data2')
 const Data3 = require('./data3')
+const Data4 = require('./data4')
 const HapiTreeize = require('../lib/register')
 
 let server = new Hapi.Server()
@@ -52,6 +53,11 @@ server.route([
     path: '/birds',
     handler: (request, reply) => reply.treeize(Data3)
   },
+  {
+    method: 'GET',
+    path: '/signature',
+    handler: (request, reply) => reply.treeize(Data4, null, ['id', 'value'])
+  }
 ])
 
 server.start((err) => {
