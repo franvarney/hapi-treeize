@@ -4,6 +4,7 @@
   "description": "A hapi.js plugin that decorates reply with treeize.",
   "main": "index.js",
   "scripts": {
+    "example": "node example/",
     "lint": "standard",
     "posttest": "npm run lint",
     "test": "lab -cvv"
