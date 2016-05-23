@@ -1,0 +1,26 @@
+[
+  {
+    "state": "Ohio",
+    "slogan": "The Heart of It All",
+    "birds:name": "Cardinal",
+    "birds:colors": "red"
+  },
+  {
+    "state": "Ohio",
+    "slogan": "The Heart of It All",
+    "birds:name": "Red-Wing Blackbird",
+    "birds:colors": "black"
+  },
+  {
+    "name": "Kentucky",
+    "slogan": "Unbridled Spirit",
+    "birds:name": "Blackbird",
+    "birds:colors": "black"
+  },
+  {
+    "name": "Kentucky",
+    "slogan": "Unbridled Spirit",
+    "birds:name": "Cardinal",
+    "birds:colors": "red"
+  }
+]
