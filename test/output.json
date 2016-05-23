@@ -1,0 +1,39 @@
+[
+  {
+    "name": "John Doe",
+    "age": 34,
+    "pets": [
+      {
+        "name": "Rex",
+        "type": "dog",
+        "toys": [
+          {
+            "type": "bone"
+          },
+          {
+            "type": "ball"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mary Jane",
+    "age": 19,
+    "pets": [
+      {
+        "name": "Mittens",
+        "type": "kitten",
+        "toys": [
+          {
+            "type": "yarn"
+          }
+        ]
+      },
+      {
+        "name": "Fluffy",
+        "type": "cat"
+      }
+    ]
+  }
+]
