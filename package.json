@@ -1,6 +1,6 @@
 {
   "name": "hapi-treeize",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A hapi.js plugin that decorates reply with treeize.",
   "main": "index.js",
   "scripts": {
