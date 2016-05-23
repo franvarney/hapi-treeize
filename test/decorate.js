@@ -99,5 +99,18 @@ describe('lib/decorate', () => {
         return done()
       })
     })
+
+    describe('when no data is passed in', () => {
+      before((done) => {
+        tree.getData.returns(Output)
+        return done()
+      })
+
+      it('throws an error', (done) => {
+        expect(() => Decorate.reply.call(fn, {}, null)).to.throw()
+        expect(() => Decorate.reply.call(fn, {}, undefined)).to.throw()
+        return done()
+      })
+    })
   })
 })
