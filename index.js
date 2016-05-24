@@ -1,1 +1,3 @@
-require('./lib/treeize')
+const HapiTreeize = require('./lib/register')
+
+module.exports = HapiTreeize
